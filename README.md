@@ -4,6 +4,21 @@
     <br /> <sub><sup>Front End Web Developer</sup></sub>
      <img align="right" width="45" alt="Shimarin" src="./onlylogo.svg"/>
 </h1>
+
+<p dir="auto">
+  <a href="https://www.linkedin.com/in/tassiaaccioly/" rel="nofollow">
+    <img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./ons8-linkedin-48.png" style="max-width: 100%;"></a>
+<a href="https://www.twitter.com/itsmetherogue/" rel="nofollow">
+  <img align="left" alt="itsmetherogue | Twitter" width="22px" src="./ons8-linkedin-48.png" style="max-width: 100%;">
+  </a>
+<a href="mailto:tassia.accioly@gmail.com">
+  <img align="left" alt="tassia.accioly | Gmail" width="22px" src="./ons8-linkedin-48.png" style="max-width: 100%;">
+  </a>
+<a href="https://tassiaaccioly.medium.com/" rel="nofollow">
+  <img align="left" alt="tassiaaccioly | Medium" width="22px" src="./ons8-linkedin-48.png" style="max-width: 100%;">
+  </a>
+</p>
+
 <span>
   <a href="" >
     <img align="top" width="40" height="40" src="./icons8-linkedin-48.png" />
