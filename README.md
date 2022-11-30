@@ -5,10 +5,15 @@
      <img align="right" width="45" alt="Shimarin" src="./onlylogo.svg"/>
 </h1>
 <span>
-<img width="40" height="40" src="./icons8-linkedin-48.png" />
-<img width="40" height="40" src="./icons8-post-48.png" />
-<img width="40" height="40" src="./icons8-twitter-squared-48.png" />
-<img width="40" height="40" src="./icons8-whatsapp-48.png" />
+  <a href="" >
+    <img align="top" width="40" height="40" src="./icons8-linkedin-48.png" />
+  </a>
+<a href="" >
+  <img align="top" width="40" height="40" src="./icons8-post-48.png" />
+</a>
+  <a href="" >
+   <img align="top" width="40" height="40" src="./icons8-twitter-squared-48.png" />
+  </a>
 </span>
 
 <div width="100%">
