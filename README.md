@@ -17,36 +17,10 @@
 
 </h1>
 
-
-<div width="100%">
-<table width="100%">
-  <tbody width="100%">
-    <tr width="100%">
-      <td width="25%">
-    <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/AinNCKMDRuOgLKBtOyjvjg?identity__email=khalidoghli7%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/AinNCKMDRuOgLKBtOyjvjg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Certified Vue Developer</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Aug 28, 2022</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Khaled Oghli</span></p>
-<a href="https://badgr.com/public/assertions/AinNCKMDRuOgLKBtOyjvjg?identity__email=khalidoghli7@gmail.com">
-Verify
-</a>
-</blockquote>
-      </td>
-      <td width="60%">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledoghli" alt="khaledoghli" /></a> 
-      </td>
-      <td width="15%">
-        <span> <img src="https://user-images.githubusercontent.com/65956317/205032989-17fa5903-0b1d-446a-8dfe-0dbfde498c89.jpg" /> </span>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
 <p>
-<h2> 
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="48px" /> About Me
-</h2>
-</p>
-  <img src="./macuser.png" alt="khaledoghli" width="270px" align="right" />
+ 
+
+  <img src="./macuser.png" alt="khaledoghli" width="250px" align="right" />
 
 - 🔭 I’m currently working on [Dubai Municipality Building Permit Control System](https://www.dm.gov.ae/)
 
@@ -60,6 +34,29 @@ Verify
 </a>
 
 <img width="70%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</p>
+
+
+<div width="100%">
+<table width="100%">
+  <tbody width="100%">
+    <tr width="100%">
+      <td width="30%">
+    <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/AinNCKMDRuOgLKBtOyjvjg?identity__email=khalidoghli7%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/AinNCKMDRuOgLKBtOyjvjg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Certified Vue Developer</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Aug 28, 2022</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Khaled Oghli</span></p>
+<a href="https://badgr.com/public/assertions/AinNCKMDRuOgLKBtOyjvjg?identity__email=khalidoghli7@gmail.com">
+Verify
+</a>
+</blockquote>
+      </td>
+      <td width="70%">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledoghli" alt="khaledoghli" /></a> 
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 # 🔧 Technologies & Tools 
