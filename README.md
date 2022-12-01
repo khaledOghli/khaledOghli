@@ -46,7 +46,7 @@ Verify
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="48px" /> About Me
 </h2>
 </p>
-  <img src="./macuser.png" alt="khaledoghli" width="250px" align="right" />
+  <img src="./macuser.png" alt="khaledoghli" width="270px" align="right" />
 
 - 🔭 I’m currently working on [Dubai Municipality Building Permit Control System](https://www.dm.gov.ae/)
 
@@ -55,21 +55,14 @@ Verify
 - 💬 Ask me about **HTML, CSS, Vue and web animation**
 
 - 📫 How to reach me **khaledoghli@outlook.com**
+<a align="center" href="https://github.com/khaledOghli/khaledOghli/blob/1d206dfc71e4f0d87e4d0a2a7f6fc2acc3b3c0d9/KhaledOghli-CV.pdf" >
+  <img align="center" width="200px" src="./download.png" />
+</a>
 
-- 📄 Know about my experiences [RESUME](https://github.com/khaledOghli/khaledOghli/blob/1d206dfc71e4f0d87e4d0a2a7f6fc2acc3b3c0d9/KhaledOghli-CV.pdf)
+<img width="70%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> 
-  <a href="https://twitter.com/khaledoghli" target="blank">
-  <img src="https://img.shields.io/twitter/follow/khaledoghli?logo=twitter&style=for-the-badge" alt="khaledoghli" />
-  </a>
-</p>
-  
-  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="left">Languages and Tools:</h3>
-
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+# 🔧 Technologies & Tools 
 
  <p align="left">
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
@@ -131,17 +124,16 @@ Verify
 
 
 
-<p width="33.333%">
-  <img align="left" width="33.333%"src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledoghli&show_icons=true&locale=en&layout=compact" alt="khaledoghli" />
+<p>
+  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledoghli&show_icons=true&locale=en&layout=compact" alt="khaledoghli" />
+    <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api?username=khaledoghli&show_icons=true&locale=en" alt="khaledoghli" />
+  <img align="right" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledoghli&" alt="khaledoghli" />
+
 </p>
 
-<p width="33.333%">
-  <img align="center" width="33.333%"src="https://github-readme-stats.vercel.app/api?username=khaledoghli&show_icons=true&locale=en" alt="khaledoghli" />
-</p>
 
-<p width="33.333%" >
-  <img align="center" width="33.333%"src="https://github-readme-streak-stats.herokuapp.com/?user=khaledoghli&" alt="khaledoghli" />
-</p>
+
+<br/>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
