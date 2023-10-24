@@ -29,7 +29,7 @@
 - 💬 Ask me about **HTML, CSS, Vue and web animation**
 
 - 📫 How to reach me **khaledoghli@outlook.com**
-<a align="center" href="https://github.com/khaledOghli/khaledOghli/blob/1d206dfc71e4f0d87e4d0a2a7f6fc2acc3b3c0d9/KhaledOghli-CV.pdf" >
+<a align="center" href="https://github.com/khaledOghli/cv/blob/dcb548cad0e3221b5df80ffa55ca7e442b5c6c5b/KhaledOghliResume.pdf" >
   <img align="center" width="200px" src="./download.png" />
 </a>
 
