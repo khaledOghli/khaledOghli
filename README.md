@@ -50,7 +50,7 @@ Verify
 </blockquote>
       </td>
       <td width="70%">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledoghli" alt="khaledoghli" /></a> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://api.badgr.io/public/assertions/AinNCKMDRuOgLKBtOyjvjg/image" alt="khaledoghli" /></a> 
       </td>
     </tr>
   </tbody>
