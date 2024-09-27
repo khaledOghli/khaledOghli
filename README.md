@@ -24,8 +24,6 @@
 
 - 🔭 I’m currently working on [Dubai Municipality Building Permit Control System](https://www.dm.gov.ae/)
 
-- 👨‍💻 All of my projects are available at [https://www.khaledoghli.com](https://www.khaledoghli.com)
-
 - 💬 Ask me about **HTML, CSS, Vue and web animation**
 
 - 📫 How to reach me **khaledoghli@outlook.com**
