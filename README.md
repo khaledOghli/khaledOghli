@@ -1,137 +1,106 @@
-<h1>
-  Hi 👋, I'm Khaled Oghli
-    <br /> <sub width="200px"><sup>Front End Web Developer</sup></sub>
-    <img align="right" width="55" alt="Shimarin" src="./onlylogo.svg"/>
-
-  <p align="right" dir="auto" width="100">
-  <a href="https://www.linkedin.com/in/khaledoghli/" rel="nofollow">
-    <img align="left" alt="khaledoghli | LinkedIn" width="30px" src="./icons8-linkedin-48.png" style="max-width: 100%;" />
-  </a>
-<a href="https://www.twitter.com/khaledoghli/" rel="nofollow">
-  <img align="left" alt="itsmetherogue | Twitter" width="30px" src="./icons8-twitter-squared-48.png" style="max-width: 100%;" />
-  </a>
-<a href="mailto:khaledoghli@outlook.com">
-  <img align="left" alt="khaledoghli | outlook" width="30px" src="./icons8-post-48.png" style="max-width: 100%;" />
-  </a>
-</p>
-
-</h1>
-
-<p>
- 
-
-  <img src="./macuser.png" alt="khaledoghli" width="250px" align="right" />
-
-- 🔭 I’m currently working on [Dubai Municipality Building Permit Control System](https://www.dm.gov.ae/)
-
-- 💬 Ask me about **HTML, CSS, Vue and web animation**
-
-- 📫 How to reach me **khaledoghli@outlook.com**
-<a align="center" href="https://github.com/khaledOghli/cv/blob/dcb548cad0e3221b5df80ffa55ca7e442b5c6c5b/KhaledOghliResume.pdf" >
-  <img align="center" width="200px" src="./download.png" />
+<!--
+  ╔═══════════════════════════════════════════════════════════════════════╗
+  ║  KHALED OGHLI — PROFILE README                                        ║
+  ║  Repo: github.com/khaledOghli/khaledOghli                             ║
+  ║                                                                       ║
+  ║  All the pixel art in this file is hand-generated SVG (5x7 bitmap     ║
+  ║  font, brand palette from the portfolio's tokens.css).                ║
+  ║  Regenerate after editing copy:  node tools/build-art.mjs             ║
+  ╚═══════════════════════════════════════════════════════════════════════╝
+-->
+<div align="center">
+<a href="https://v0-khaledoghli-portfolio.vercel.app">
+  <img src="./assets/hero.svg" width="100%" alt="Khaled Oghli — Creative Frontend Developer. Damascus to Dubai, 8 years in play." />
 </a>
-
-<img width="70%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</p>
-
-
-<!-- <h3 align="left">Languages and Tools:</h3> -->
-# 🔧 Technologies & Tools 
-
- <p align="left">
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-    </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://bulma.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40" />
-    </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" /> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" /> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-    <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" /> </a>
-    <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a>
-    <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40" />
-    </a>
-    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" /> </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
-</p>
-
-
-
-<p>
-  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledoghli&show_icons=true&locale=en&layout=compact" alt="khaledoghli" />
-    <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api?username=khaledoghli&show_icons=true&locale=en" alt="khaledoghli" />
-  <img align="right" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledoghli&" alt="khaledoghli" />
-
-</p>
-
-
-
+<a href="https://v0-khaledoghli-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-05070A?style=flat-square&labelColor=05070A&color=0AFCDB" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/khaledoghli/"><img src="https://img.shields.io/badge/LINKEDIN-05070A?style=flat-square&labelColor=05070A&color=0AFCDB" alt="LinkedIn" /></a>
+<a href="https://www.behance.net/khalidoghli"><img src="https://img.shields.io/badge/BEHANCE-05070A?style=flat-square&labelColor=05070A&color=F3B94C" alt="Behance" /></a>
+<a href="https://x.com/KhaledOghli"><img src="https://img.shields.io/badge/X-05070A?style=flat-square&labelColor=05070A&color=F3B94C" alt="X" /></a>
+<a href="mailto:khaledoghli@outlook.com"><img src="https://img.shields.io/badge/EMAIL-05070A?style=flat-square&labelColor=05070A&color=FF2D55" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=khaledOghli&style=flat-square&color=0AFCDB&label=VISITS" alt="Profile views" />
+</div>
+<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/boot.svg" width="100%" alt="whoami — Khaled Oghli, creative frontend developer at Dubai Municipality / Dubai Here. Born in Damascus, based in Dubai." />
+> I was born in Damascus, I live in Dubai now, and somewhere between those two places I became
+> the kind of person who cares deeply about how digital experiences feel. I started with design,
+> grew into front-end, and slowly found out that the details most people barely notice are usually
+> the ones I care about most. I care about systems and clean execution — but I never want the work
+> to feel cold. Every product should carry a visible trace of the person who built it.
+<img src="./assets/stats.svg" width="100%" alt="8+ years, 10+ projects shipped, 4+ sectors, 2 awards, 24 certificates" />
+<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/stages.svg" width="100%" alt="Stage select — Dubai Here, Build in Dubai, Dubai Worx, Gradia" />
+<div align="center">
+|  | STAGE | ROLE | YEAR | ENTER |
+|:--|:--|:--|:--:|:--|
+| 🛰️ | Dubai Here — 2D/3D geospatial platform, foundation for Dubai's digital twin | Frontend Designer & Developer | 2024 | dubaihere.ae |
+| 🏗️ | Build in Dubai — 60+ government services in one construction portal | Lead Frontend Developer | 2024 | buildindubai.gov.ae |
+| 🗺️ | Dubai Worx — GIS data turned into map-led municipal operations | Product Designer & Frontend Dev | 2024 | dubaiworx.gis.gov.ae |
+| 🎓 | Gradia — interview & grading workspace, in progress | Full-stack Frontend | 2026 | gradia |
+| 🏢 | Saif Zone — free-zone business setup platform | Frontend Developer | 2024 | saif-zone.com |
+▸ Open the full archive
+</div>
+<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/inventory.svg" width="100%" alt="Inventory — Vue, Nuxt, React, Next.js, TypeScript, Three.js, GSAP, Tailwind, Supabase and more" />
+<details>
+<summary><b>&nbsp;▸ &nbsp;Open the full repertoire</b></summary>
 <br/>
-
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
-<p align="center">
-  <a href="mailto:tien.huynhlt.tn@gmail.com" >
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
-      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/_huynh.tien.5536_/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-<p> 
-<img src="./style_033.jpg" width="100%" />
-
- 
+| Domain | Tools |
+|:--|:--|
+| Architecture | React · Hooks · Vue 3 · Composition API · Next.js · Nuxt.js · TypeScript · Pinia · Vuex · React Query · Zustand · Redux · VueUse |
+| Design Systems | Tailwind CSS · UnoCSS · SCSS · BEM · Storybook · shadcn/ui · Radix · Vuetify · PrimeVue · Material UI |
+| Creative | Three.js · React Three Fiber · TresJS · WebGL · GLSL · Shaders · Blender · Art direction |
+| Motion | GSAP · ScrollTrigger · Motion · Scroll sequences · Micro-interactions · Easing & timing |
+| A11y & SEO | WCAG · ARIA · Keyboard nav · Screen readers · Focus management · Structured data · Open Graph · react-i18next |
+| Design | Figma · Photoshop · Wireframes · Prototyping · Design tokens · Type scales · Color systems |
+| Platform | Node.js · Supabase · Astro · Jamstack · Auth · Recharts · PWA · Vercel · Serwist |
+</details>
+<img src="./assets/skills.svg" width="100%" alt="Ability matrix — frontend architecture 87, interface design 78, motion 75, accessibility and SEO 73, design systems 73, creative development 58" />
+<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/journey.svg" width="100%" alt="World map — 2017 Damascus web designer, 2019 Dubai frontend and UI/UX, 2020 senior frontend on Build in Dubai, 2024 lead frontend on Dubai Here" />
+<img src="./assets/achievements.svg" width="100%" alt="Achievements — Vue.js Certified Developer 2022, Dubai Municipality Certificate of Appreciation 2023" />
+<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center">
+<samp>SAVE DATA</samp>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khaledOghli&show_icons=true&hide_border=true&bg_color=00000000&title_color=0AFCDB&icon_color=F3B94C&text_color=7D989E&ring_color=FF2D55&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledOghli&hide_border=true&background=00000000&stroke=12242C&ring=0AFCDB&fire=FF2D55&currStreakLabel=0AFCDB&sideLabels=7D989E&currStreakNum=E8F6F4&sideNums=E8F6F4&dates=3D545A" alt="GitHub streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledOghli&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0AFCDB&text_color=7D989E" alt="Top languages" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=khaledOghli&theme=matrix&no-frame=true&no-bg=true&column=4&row=2&margin-w=6&margin-h=6" alt="Trophies" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khaledOghli&bg_color=00000000&color=0AFCDB&line=FF2D55&point=F3B94C&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" alt="Contribution graph" />
+</div>
+<img src="./assets/divider.svg" width="100%" alt="" />
+<details>
+<summary><b>&nbsp;▸ &nbsp;SIDE QUESTS — where the ideas actually come from</b></summary>
+<br/>
+🎮 Games — part of my life since the PS1 days. When I play I'm not just a gamer; I'm studying how immersion, pacing and satisfying interactions should feel.
+<br/><samp>Baldur's Gate 3 · Divinity: Original Sin 2 · Batman: Arkham · Deus Ex · Silent Hill · Resident Evil · Ninja Gaiden · The King of Fighters · Digimon World</samp>
+🎬 Cinema & series — a lot of how I think about contrast, pacing, tension and visual weight comes from the screen as much as from design.
+🧭 Creative browsing — studio sites, portfolios, experimental work. It keeps reminding me there's a huge difference between a page that functions and a page that leaves a feeling.
+📚 Reading
+| Cleared | Queued |
+|:--|:--|
+| Eloquent JavaScript | Fluent React |
+| JavaScript: The Definitive Guide | Building Micro-Frontends |
+| The Design of Everyday Things | Fundamentals of Software Architecture |
+| HTML & CSS / JS & jQuery (where it started) | Refactoring |
+👨‍👩‍👧 Family — the one thing I never trade for a deadline, and the reason the rest of it is worth doing.
+</details>
+<details>
+<summary><b>&nbsp;▸ &nbsp;NEXT LEVEL — the direction I'm still walking toward</b></summary>
+<br/>
++ Grow deeper into creative development, where taste, motion, story and
++ engineering stop being separate jobs
++ Go further into 3D on the web — not as a technical flex, only where it
++ makes something faster to understand or better to sit inside
++ Build products that feel premium in motion, not just in screenshots
+! Long term: someone opens a site and recognises it as mine before they
+! ever see my name on it
+</details>
+<img src="./assets/divider.svg" width="100%" alt="" />
+<div align="center">
+<img src="./assets/continue.svg" width="100%" alt="Continue? Yes — let's build something worth remembering. khaledoghli@outlook.com" />
+<a href="mailto:khaledoghli@outlook.com"><img src="https://img.shields.io/badge/INSERT%20COIN%20%E2%80%94%20EMAIL-05070A?style=flat-square&labelColor=05070A&color=0AFCDB" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/khaledoghli/"><img src="https://img.shields.io/badge/LINKEDIN-05070A?style=flat-square&labelColor=05070A&color=F3B94C" alt="LinkedIn" /></a>
+<a href="https://github.com/khaledOghli/cv/blob/dcb548cad0e3221b5df80ffa55ca7e442b5c6c5b/KhaledOghliResume.pdf"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-05070A?style=flat-square&labelColor=05070A&color=FF2D55" alt="Resume" /></a>
+<br/><br/>
+<samp><i>“Where the human heart meets the digital mind.”</i></samp>
+</div>
